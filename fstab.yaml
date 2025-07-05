@@ -1,8 +1,14 @@
-mountpoints:
+# mountpoints:
+#   /:
+#     url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xcom/main"
+#     type: "markup"
+#     suffix: ".html"
+# folders:
+#   /products/: /products/default
+  
+  mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xcom/main"
+    url: "https://author-p156702-e1664409.adobeaemcloud.com/bin/franklin.delivery/shubhanshu23/dcit-eds/main"
     type: "markup"
     suffix: ".html"
-folders:
-  /products/: /products/default
-  
+
