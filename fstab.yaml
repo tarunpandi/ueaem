@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p156702-e1664409.adobeaemcloud.com/bin/franklin.delivery/tarunpandi/ueaem/main"
+    url: "https://author-p156702-e1664409.adobeaemcloud.com/bin/franklin.delivery/shubhanshu23/dcit-eds/main"
     type: "markup"
     suffix: ".html"
 folders:
